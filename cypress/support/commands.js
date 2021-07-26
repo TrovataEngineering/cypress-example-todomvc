@@ -9,7 +9,7 @@
 //
 // You can read more about custom commands here:
 // https://on.cypress.io/commands
-// ***********************************************
+// **********************************************
 
 Cypress.Commands.add('createDefaultTodos', function () {
 
